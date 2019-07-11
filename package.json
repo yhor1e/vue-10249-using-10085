@@ -1,0 +1,17 @@
+{
+  "name": "vue-10249-using-10085",
+  "version": "0.0.1",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "vue": "^2.6.10"
+  },
+  "devDependencies": {
+    "http-server": "^0.11.1"
+  },
+  "scripts": {
+    "hs": "hs ."
+  },
+  "author": "yhor1e",
+  "license": "MIT"
+}
